@@ -1,0 +1,4 @@
+batch_size = 1200
+train-test split 50 %
+Gradient clipping : function clip_grad_value, clip_value=3.0
+LBFGS with learning rate = 0.01
